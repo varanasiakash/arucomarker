@@ -1,2 +1,2 @@
 # arucomarker
-it is an detection of aruco marker app.
+android application which detects aruco marker and display there properties in screen.
